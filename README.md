@@ -19,11 +19,7 @@ Management requires visibility into:
 ## Dashboard Preview
 This dashboard was developed to provide actionable insights and support data-driven decision-making.
 
-
-
-
-
-
+<img width="1284" height="727" alt="eurosalesdashboard" src="https://github.com/user-attachments/assets/c624b201-75fa-40c6-a4ee-74790bce1e7e" />
 
 ## Tools Used
 - Power BI
