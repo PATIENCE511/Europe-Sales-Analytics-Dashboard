@@ -45,7 +45,7 @@ The dataset contains:
   
 ## Key KPIs
 - Revenue: $873M
-- Orders: 667
+- Orders: 667k
 - Countries: 48
 - Units Sold: 3M
 - Profit Margin: 29.05%
@@ -57,7 +57,7 @@ The dataset contains:
 - Revenue experienced a noticeable decline after 2016.
 2. Product Category Analysis
 Top 5 revenue-generating products:
-1	Office Supplies |
+1	Office Supplies 
 2	Household
 3	Meat
 4	Cosmetics
@@ -69,7 +69,7 @@ Office Supplies generated approximately $230 million, making it the highest reve
 
 Most profitable categories:
 Top 5 Item Type	bringing most profit
-1. Office Supplies	 $45M
+1. Office Supplies $45M
 2. Cosmetics	$45M
 3. Baby Food	$32M
 4. Household	$32M
