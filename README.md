@@ -44,23 +44,24 @@ The dataset contains:
 * Order Date
   
 ## Key KPIs
-- Revenue: $873M
-- Orders: 667k
+- Revenue: $2bn
+- Orders: 1330
 - Countries: 48
-- Units Sold: 3M
-- Profit Margin: 29.05%
+- Units Sold: 7m
+- Profit Margin: 29.45%
 
 ## Key Findings
 1. Revenue Performance
-- Total revenue generated was $873 million.
+- Total revenue generated was $2 billion.
 - Revenue peaked around 2012 and 2015.
-- Revenue experienced a noticeable decline after 2016.
+- Revenue experienced a noticeable decline after 2016
+  
 2. Product Category Analysis
 Top 5 revenue-generating products:
 1	Office Supplies 
 2	Household
-3	Meat
-4	Cosmetics
+3 Cosmetics
+4 Meat
 5	Baby Food
 
 Office Supplies generated approximately $230 million, making it the highest revenue contributor.
@@ -69,23 +70,22 @@ Office Supplies generated approximately $230 million, making it the highest reve
 
 Most profitable categories:
 Top 5 Item Type	bringing most profit
-1. Office Supplies $45M
-2. Cosmetics	$45M
-3. Baby Food	$32M
-4. Household	$32M
-5. Clothes	$22M
+1. Cosmetic $93M
+2. Office Supplies	$78M
+3. Household	$73M
+4. Baby Food	$54M
+5. Clothes	$43M
 
-Office Supplies and Cosmetics delivered the highest profits.
+ Cosmetic and office supplies delivered the highest profits.
 
 4. Country Performance
 
 Top 5 best performing countries include:
-Germany
-Belarus
-Kosovo
-Bosnia and Herzegovina
-Armenia
-
+* Czech Republic
+* Ukraine
+* Kosovo
+* Bosnia and Herzegovina
+* Macedonia
 These countries contributed significantly to overall revenue generation.
 
 5. Sales Channel Analysis
